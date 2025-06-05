@@ -1,1 +1,5 @@
-# CS_25_7_1_Entity_Framework_Core
+**25 модуль**, 7 страница, 1 задание (25.7.1)
+
+## Описание
+
+Entity Framework Core
